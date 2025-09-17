@@ -157,7 +157,7 @@ def home():
     <body>
         <div class="header">
             <div class="university-logo">🎓 SHOOLINI UNIVERSITY No.1 Private University in India.</div>
-            <div class="tagline">"Learning for Life"</div>
+            <div class="tagline"><i>"Shoolini my Success!"</i></div>
             <div class="location">📍 Solan, Himachal Pradesh, India</div>
         </div>
         
