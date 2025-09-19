@@ -167,6 +167,8 @@ def home():
                 <p>
                     This Flask application demonstrates modern CI/CD practices and containerization technologies 
                     developed by students of the Computer Science & Engineering Department at Shoolini University.
+</p>
+<p>oooiii hooiiii k chghdafgv uyibgnhbh  bm nmn  hhhhhvvvvvvvvvvvvvvvvvvvvvvvkkkkkkkkkkkkkkkkkkkk
                 </p>
             </div>
             
